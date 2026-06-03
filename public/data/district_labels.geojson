@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.368829411764708,
+          48.204964705882354
+        ]
+      },
+      "properties": {
+        "district_num": 1,
+        "district_name": "Innere Stadt",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.384790000000002,
+          48.220815
+        ]
+      },
+      "properties": {
+        "district_num": 2,
+        "district_name": "Leopoldstadt",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39153888888889,
+          48.202488888888894
+        ]
+      },
+      "properties": {
+        "district_num": 3,
+        "district_name": "Landstra\u00dfe",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3656,
+          48.19453529411765
+        ]
+      },
+      "properties": {
+        "district_num": 4,
+        "district_name": "Wieden",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.354766666666666,
+          48.18683333333333
+        ]
+      },
+      "properties": {
+        "district_num": 5,
+        "district_name": "Margareten",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.345375,
+          48.192625
+        ]
+      },
+      "properties": {
+        "district_num": 6,
+        "district_name": "Mariahilf",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34980909090909,
+          48.20105454545455
+        ]
+      },
+      "properties": {
+        "district_num": 7,
+        "district_name": "Neubau",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34684615384615,
+          48.20646153846154
+        ]
+      },
+      "properties": {
+        "district_num": 8,
+        "district_name": "Josefstadt",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.350214285714284,
+          48.21696428571429
+        ]
+      },
+      "properties": {
+        "district_num": 9,
+        "district_name": "Alsergrund",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34927272727273,
+          48.17213636363636
+        ]
+      },
+      "properties": {
+        "district_num": 10,
+        "district_name": "Favoriten",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39552631578947,
+          48.18021052631579
+        ]
+      },
+      "properties": {
+        "district_num": 11,
+        "district_name": "Simmering",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.316384615384614,
+          48.17123076923077
+        ]
+      },
+      "properties": {
+        "district_num": 12,
+        "district_name": "Meidling",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.286142857142856,
+          48.17335714285714
+        ]
+      },
+      "properties": {
+        "district_num": 13,
+        "district_name": "Hietzing",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.289666666666665,
+          48.20466666666667
+        ]
+      },
+      "properties": {
+        "district_num": 14,
+        "district_name": "Penzing",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.319454545454548,
+          48.194590909090905
+        ]
+      },
+      "properties": {
+        "district_num": 15,
+        "district_name": "Rudolfsheim-F\u00fcnfhaus",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.29209090909091,
+          48.23109090909091
+        ]
+      },
+      "properties": {
+        "district_num": 16,
+        "district_name": "Ottakring",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.325818181818182,
+          48.2370909090909
+        ]
+      },
+      "properties": {
+        "district_num": 17,
+        "district_name": "Hernals",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.348857142857145,
+          48.232214285714285
+        ]
+      },
+      "properties": {
+        "district_num": 18,
+        "district_name": "W\u00e4hring",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373066666666666,
+          48.259800000000006
+        ]
+      },
+      "properties": {
+        "district_num": 19,
+        "district_name": "D\u00f6bling",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35746153846154,
+          48.23242307692307
+        ]
+      },
+      "properties": {
+        "district_num": 20,
+        "district_name": "Brigittenau",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3915,
+          48.292625
+        ]
+      },
+      "properties": {
+        "district_num": 21,
+        "district_name": "Floridsdorf",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42515789473684,
+          48.25205263157895
+        ]
+      },
+      "properties": {
+        "district_num": 22,
+        "district_name": "Donaustadt",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.245166666666666,
+          48.185583333333334
+        ]
+      },
+      "properties": {
+        "district_num": 23,
+        "district_name": "Liesing",
+        "winning_party": null,
+        "avg_rent_eur": null
+      }
+    }
+  ]
+}
