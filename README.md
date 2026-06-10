@@ -4,12 +4,12 @@ An interactive spatial analysis platform for Vienna: visualising urban heat vuln
 
 ## Features
 
-- **District choropleth** — visualises the Urban Heat Vulnerability Index (UHVI) across Vienna's 23 districts
-- **Radius circle** — drag anywhere on the map; the right panel updates live with counts of nearby facilities
-- **Address search** — jump to any Vienna address via OpenStreetMap geocoding
-- **Facility layers** — toggle playgrounds, kindergartens, schools, parks, advisory centers, defibrillators, cultural summer locations, tourist spots, city payment offices, and accessible bank branches
-- **District popups** — click any district for its name, area, and heat vulnerability score
-- **Facility popups** — click any point for detailed information
+- **District choropleth:** visualises the Urban Heat Vulnerability Index (UHVI) across Vienna's 23 districts
+- **Radius circle:** drag anywhere on the map; the right panel updates live with counts of nearby facilities
+- **Address search:** jump to any Vienna address via OpenStreetMap geocoding
+- **Facility layers:** toggle playgrounds, kindergartens, schools, parks, advisory centers, defibrillators, cultural summer locations, tourist spots, city payment offices, and accessible bank branches
+- **District popups:** click any district for its name, area, and heat vulnerability score
+- **Facility popups:** click any point for detailed information
 
 ## Tech Stack
 
@@ -33,9 +33,9 @@ Open `http://localhost:5173` in your browser.
 
 ## Data Sources
 
-- District boundaries — City of Vienna Open Data
-- Urban Heat Vulnerability Index — City of Vienna (250 sub-districts, aggregated to 23 districts)
-- Facility datasets — [data.wien.gv.at](https://data.wien.gv.at) (WFS and GeoJSON)
+- District boundaries: City of Vienna Open Data
+- Urban Heat Vulnerability Index: City of Vienna (250 sub-districts, aggregated to 23 districts)
+- Facility datasets: [data.wien.gv.at](https://data.wien.gv.at) (WFS and GeoJSON)
 
 ## Adding a New Dataset
 
@@ -44,4 +44,4 @@ Open `http://localhost:5173` in your browser.
 ```json
 { "id": "my-layer", "file": "my-file.json", "color": "#e74c3c", "label": "My Layer" }
 ```
-CSV files need `lat`/`latitude` and `lng`/`lon`/`longitude` columns. Everything else — the toggle button, map layer, radius count, and popup — is automatic.
+CSV files need `lat`/`latitude` and `lng`/`lon`/`longitude` columns. Everything else (the toggle button, map layer, radius count, and popup) is automatic.
